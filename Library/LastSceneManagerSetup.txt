@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/SplineMaker/Scenes/SplineScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
